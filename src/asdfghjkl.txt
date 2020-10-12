@@ -1,0 +1,7 @@
+Username : localadmin
+password: Tata@12345
+sq : TCS
+
+
+connect wifi >
+cmd : slmgr -ato
